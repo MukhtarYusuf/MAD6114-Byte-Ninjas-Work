@@ -57,6 +57,7 @@ const Tab = createBottomTabNavigator();
 const MainStack = createStackNavigator();
 const ProjectsStack = createStackNavigator();
 
+//comment
 export default function App() {
     return (
         <NavigationContainer>
